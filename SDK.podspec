@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
   spec.license      = "MIT)"
   spec.author             = { "ShyPig" => "709540282@qq.com" }
    spec.platform     = :ios, "10.0"
-  spec.source       = { :git => "https://github.com/yjjandyxy/ControlSdk/SDK.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/yjjandyxy/ControlSdk.git", :tag => "#{spec.version}" }
   spec.source_files  = "ControlSdk","*.{h,m}"
 #  spec.exclude_files = "Classes/Exclude"
   spec.requires_arc = true
