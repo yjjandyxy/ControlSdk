@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "ControlSDK"
-  spec.version      = "1.0.4.3"
+  spec.version      = "1.0.4.4"
   spec.summary      = "这是N60远控SDK------"
   spec.description  = "提供钛码工程师使用"
   spec.homepage     = "https://github.com/yjjandyxy/ControlSdk"
